@@ -1,0 +1,8 @@
+pip install sentence-transformers
+pip install langchain  
+pip install -U langchain-community
+pip install -U langchain-core
+pip install youtube-transcript-api
+pip install -U langchain-huggingface
+pip install -U langchain-chroma
+pip install -U langchain-huggingface
